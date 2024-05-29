@@ -1,0 +1,11 @@
+src/headfirst/designpatterns/strategy/MiniDuckSimulator1.java
+src/headfirst/designpatterns/strategy/Duck.java
+src/headfirst/designpatterns/strategy/MallardDuck.java
+src/headfirst/designpatterns/strategy/ModelDuck.java
+src/headfirst/designpatterns/strategy/FlyRocketPowered.java
+src/headfirst/designpatterns/strategy/FlyBehavior.java
+src/headfirst/designpatterns/strategy/QuackBehavior.java
+src/headfirst/designpatterns/strategy/Quack.java
+src/headfirst/designpatterns/strategy/FlyNoWay.java
+src/headfirst/designpatterns/strategy/FlyWithWings.java
+
