@@ -18,3 +18,17 @@ For the intro, you can compile and run the classes via:
 javac @compile/compile-strategy
 java -cp src headfirst.designpatterns.strategy.MiniDuckSimulator1
 ```
+
+Ch. 2 - the observer pattern
+
+```sh
+javac @compile/compile-observer -Xlint:deprecation
+java -cp src headfirst.designpatterns.observer.simple.Example
+java -cp src headfirst.designpatterns.observer.simpleobservable.Example
+java -cp src headfirst.designpatterns.observer.swing.SwingObserverExample
+java -cp src headfirst.designpatterns.observer.weather.WeatherStation
+java -cp src headfirst.designpatterns.observer.weather.WeatherStationHeatIndex
+java -cp src headfirst.designpatterns.observer.weatherobservable.WeatherStation
+java -cp src headfirst.designpatterns.observer.weatherobservable.WeatherStationHeatIndex
+```
+
